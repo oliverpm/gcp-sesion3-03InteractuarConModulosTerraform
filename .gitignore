@@ -1,0 +1,8 @@
+# Ignorar directorio .terraform que contiene archivos grandes
+.terraform/
+
+# Ignorar archivos de estado y configuración de Terraform
+*.tfstate
+*.tfstate.*
+
+bk/
